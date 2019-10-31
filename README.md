@@ -1,2 +1,1 @@
-###Welcome to my github
-##Ocean University of China
+Ocean University of China
