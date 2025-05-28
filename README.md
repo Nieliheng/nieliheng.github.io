@@ -1,4 +1,4 @@
-# {{ site.author }}
+# {{ nieliheng.github.io }}
 
 <p align="center">
   <a href="mailto:{{ site.email }}">{{ site.email }}</a> •
