@@ -11,7 +11,7 @@
 
 ## About Me
 
-Welcome to my personal page! I am currently pursuing my Master's degree in Computer Science at the City University of Hong Kong. My interests lie primarily in machine learning, natural language processing, and computer graphics.
+Welcome to my personal page! I am currently pursuing my Master's degree in Computer Science at the City University of Hong Kong. My interests lie primarily in machine learning and natural language processing.
 
 ---
 
