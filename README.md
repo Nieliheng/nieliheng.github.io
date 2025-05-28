@@ -1,4 +1,4 @@
-# {{ nieliheng.github.io }}
+# Liheng Nie
 
 <p align="center">
   <a href="mailto:{{ site.email }}">{{ site.email }}</a> •
@@ -18,8 +18,9 @@ Welcome to my personal page! I am currently pursuing my Master's degree in Compu
 ## Education
 
 {% for edu in site.education %}
-### {{ edu.degree }} in {{ edu.major }}
-*   **Institution:** {{ edu.school }}
+### {{edu.school}}
+*   **Major:** {{ edu.major }}
+*   **Degree:**{{edu.degree}}
 *   **Duration:** {{ edu.duration }}
 *   **Key Coursework/Focus:** {{ edu.description }}
 {% endfor %}
